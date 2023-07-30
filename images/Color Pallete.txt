@@ -1,0 +1,5 @@
+#0886ca - Main
+#ebf9fa - Light
+#62a7c7 - Shade
+#2179a1 - Dark
+#94b4c4 - Greyish
