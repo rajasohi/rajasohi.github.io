@@ -485,6 +485,7 @@ a:hover{
 #slideshow img{
   height: calc(50vh - 100px);
   width: auto;
+  object-fit: cover;
 }
 #footer-div{
     display:flex;
