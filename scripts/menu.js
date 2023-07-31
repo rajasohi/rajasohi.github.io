@@ -20,6 +20,8 @@ $(document).ready(function(){
 		autoplaySpeed: 2000,
 		speed:3500,
 		dots:true,
+		prevArrow: '<button type="button" class="slick-custom-arrow slick-prev"> < </button>',
+                nextArrow: '<button type="button" class="slick-custom-arrow slick-next"> > </button>'
 	});
 });
 function myFunction(x) {
