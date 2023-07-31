@@ -482,6 +482,10 @@ a:hover{
     width:100%;
     height:auto;
 }
+#slideshow img{
+  height: calc(50vh - 100px);
+  width: auto;
+}
 #footer-div{
     display:flex;
     flex-direction: column;
