@@ -14,14 +14,14 @@ Student# A00901329
 	});	
 	
 })(document);
-/*$(document).ready(function(){
+$(document).ready(function(){
 	$('#slideshow .houses-slider').slick({
 		autoplay:true,
 		autoplaySpeed: 2000,
 		speed:3500,
 		dots:true,
 	});
-});*/
+});
 function myFunction(x) {
 	x.classList.toggle("change");
 }
@@ -33,7 +33,7 @@ window.addEventListener('load', async () => {
     video.controls = true;
   }
 });
-$(document).ready(function(){ 
+/*$(document).ready(function(){ 
 	$('#slideshow .houses-slider').slick({ 
 		dots: true, 
 		arrows: true, 
@@ -41,4 +41,4 @@ $(document).ready(function(){
 		slidesToShow: 1, 
 		slidesToScroll: 1 
 		}); 
-});
+});*/
